@@ -1,6 +1,6 @@
 # PSO Fuzzy XGBoost Classifier Boosted with Neural Gas Features on EEG Signals in Emotion Recognition
 
-### Link to the Paper
+### Link to the Paper:
 - https://arxiv.org/abs/2407.09950
 - DOI: https://doi.org/10.48550/arXiv.2407.09950
 - June to August 2024 / Lugano / Switzerland 
